@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, Anastasis Lolas
+### Hi there 👋, I'm Anastasis Lolas
 #### Design and code Development
 ![Design and code Development](https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
 
@@ -12,6 +12,7 @@ Skills: C/C++/JAVA/JS/HTML/CSS/Data Structures/Files-Databases
 - 🔭 I’m currently working on Getting my Degree in CS 
 - 🌱 I’m currently learning Java servlets,SQL,mySQL 
 - 👯 I’m looking to collaborate on Web-Development 
+
 
 
 
