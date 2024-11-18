@@ -10,13 +10,7 @@ I'm Anastasis from Greece,i am a Computer Science Student in the University of C
 * 📱 JavaScript (JS) / CSS / HTML
 * 🌐 Java
 * 🐍 Python
-* ⚙️ DevOps / CI-CD
-* 🐳 Docker / Kubernetes
-* ☁️ Cloud (AWS, Azure)
 * 📊 SQL / Databases
-* 🎨 UI/UX Design
-* 📱 Mobile Development (React Native / Flutter)
-* 🔒 Security / Cybersecurity
 
 
 - 🔭 I’m currently working on Getting my Degree in CS 
