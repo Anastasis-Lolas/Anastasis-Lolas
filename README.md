@@ -7,12 +7,9 @@
 I'm Anastasis from Greece,i am a Computer Science Student in the University of Crete.I really enjoy learning languages especially for web-development.I also enjoy creating data-structures and creating Relational-Data Models.
 
 ## Skills and Experience
-*C
-*C++
-*JAVA
-*JS
-*HTML
-*CSS
+💻 C/C++
+📱 JS/CSS/HTML
+🌐 JAVA
 
 - 🔭 I’m currently working on Getting my Degree in CS 
 - 🌱 I’m currently learning Java servlets,SQL,mySQL 
