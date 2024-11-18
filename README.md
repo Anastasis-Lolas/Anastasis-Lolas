@@ -12,7 +12,7 @@ I'm Anastasis from Greece, and I'm currently pursuing a degree in Computer Scien
 * 🌐 Java 
 * 🐍 Python 
 * 📊 SQL / Databases ( MySQL)
-
+* Operating Systems
 ---
 
 - 🔭 I’m currently working towards earning my degree in Computer Science.
@@ -23,4 +23,4 @@ I'm Anastasis from Greece, and I'm currently pursuing a degree in Computer Scien
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anastasis-Lolas&theme=dark&show_icons=true)](https://github.com/Anastasis-Lolas/github-readme-stats)
 
-Feel free to reach out or collaborate!
+Feel free to reach out! 
