@@ -5,11 +5,19 @@
 ![Design and code Development](https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg)
 
 I'm Anastasis from Greece,i am a Computer Science Student in the University of Crete.I really enjoy learning languages especially for web-development.I also enjoy creating data-structures and creating Relational-Data Models.
-
 ## Skills and Experience
-*💻 C/C++
-*📱 JS/CSS/HTML
-*🌐 JAVA
+* 💻 C/C++
+* 📱 JavaScript (JS) / CSS / HTML
+* 🌐 Java
+* 🐍 Python
+* ⚙️ DevOps / CI-CD
+* 🐳 Docker / Kubernetes
+* ☁️ Cloud (AWS, Azure)
+* 📊 SQL / Databases
+* 🎨 UI/UX Design
+* 📱 Mobile Development (React Native / Flutter)
+* 🔒 Security / Cybersecurity
+
 
 - 🔭 I’m currently working on Getting my Degree in CS 
 - 🌱 I’m currently learning Java servlets,SQL,mySQL 
