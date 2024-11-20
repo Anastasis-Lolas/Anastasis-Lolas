@@ -13,6 +13,7 @@ I'm Anastasis from Greece, and I'm currently pursuing a degree in Computer Scien
 * 🐍 Python 
 * 📊 SQL / Databases ( MySQL)
 * Operating Systems
+* Signal Proccessing 
 ---
 
 - 🔭 I’m currently working towards earning my degree in Computer Science.
